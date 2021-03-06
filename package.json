@@ -1,0 +1,7 @@
+{
+  "name": "MusicBlog",
+  "version": "1.0.0",
+  "dependencies": {
+    "hexo-cli": "^4.2.0"
+  }
+}
